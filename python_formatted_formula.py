@@ -1,5 +1,5 @@
 import numpy as np
-from pasre_formula import tree_to_function
+from parse_formula import tree_to_function
 
 # Expression saved as String
 #Example
